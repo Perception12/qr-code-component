@@ -17,7 +17,7 @@
 
 ### What I learned
 
-I learned how to center a div using absolute position and transform properties
+I learned an easy way to center a div both vertically and horizontally
 
 To see how you can add code snippets, see below:
 
@@ -31,9 +31,6 @@ To see how you can add code snippets, see below:
 
 ```css
 .box {
-    position: absolute;              
-    top: 50%;
-    left: 50%;                        
-    transform: translate(-50%, -50%); 
+    margin: 4rem auto;
 }
 ```
