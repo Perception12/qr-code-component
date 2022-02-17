@@ -1,0 +1,37 @@
+body {
+    background-color: #D8E2DC;
+    font-family: sans-serif;
+}
+
+.box {
+    background-color: white;
+    width: 350px;
+    text-align: center;
+    height: 550px;
+    padding: 15px;
+    padding-bottom: 0;
+    border-radius: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    position: absolute;               /* 2 */
+    top: 50%;
+    left: 50%;                         /* 3 */
+    transform: translate(-50%, -50%); 
+    box-shadow: 5px 5px 12px #a7beb0;
+}
+
+.title {
+    font-size: 24px;
+    font-weight: bold;
+    padding: 0 10px;
+    color: #163c6d;
+}
+
+.description {
+    color: gray;
+    padding: 0 40px;
+}
+
+img {
+    border-radius: 10px;
+}
