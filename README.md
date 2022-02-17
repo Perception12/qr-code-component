@@ -6,8 +6,8 @@
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Perception12/qr-code-component)
-- Live Site URL: [Add live site URL here](https://perception12.github.io/qr-code-component/)
+- Solution URL: [](https://github.com/Perception12/qr-code-component)
+- Live Site URL: [](https://perception12.github.io/qr-code-component/)
 
 ## My process
 
