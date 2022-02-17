@@ -4,9 +4,8 @@
 
 ![Site screenshot](./images/site-screenshot.png)
 
-### Links
+### Link
 
-- Solution URL: [https://github.com/Perception12/qr-code-component](https://github.com/Perception12/qr-code-component)
 - Live Site URL: [https://perception12.github.io/qr-code-component/](https://perception12.github.io/qr-code-component/)
 
 ## My process
